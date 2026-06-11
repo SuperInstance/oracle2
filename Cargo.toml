@@ -1,0 +1,8 @@
+[package]
+name = "oracle2"
+version = "0.1.0"
+license = "MIT OR Apache-2.0"
+edition = "2021"
+description = "Oracle v2 - predictive analytics and decision engine"
+
+[dependencies]
